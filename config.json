@@ -1,0 +1,6 @@
+{
+    "hidden_units": 28,
+    "activation": "sigmoid",
+    "path": "test",
+    "pca_components": 78
+}
